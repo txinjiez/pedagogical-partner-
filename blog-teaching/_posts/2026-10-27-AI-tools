@@ -1,0 +1,30 @@
+---
+title: Observing the Course as a Pedagogical Partner: AI Tools in the Classroom
+author: Tina Zeng
+tags: [Teaching R, Classroom activities]
+summary: Reflections on students’ choices of AI tools, the use of a course-specific chatbot, and ways to make AI-assisted learning more thoughtful.
+---
+
+For the fall 2026 semester, I’m working with Professor Shiro Kuriwaki as a pedagogical partner for Applied Quantitative Research Design through Yale’s Poorvu Center for Teaching and Learning. My role is to help the teaching team understand how students experience the course. I observe classes, take notes on teaching and student engagement, and discuss my observations with the teaching team. I also collect student feedback to understand what supports or hinders their learning.
+
+In this blog, I will share reflections from our class as we grapple with how AI tools are reshaping student learning and how effective cold calling is for encouraging participation and gauging understanding. I hope these reflections offer other instructors useful questions to ask about their own courses.
+
+# What we tried
+
+One question we’re working through this semester is how AI use affects student learning. We hope this course prepares students for research and the workplace, including learning to be savvy and discerning with AI. The course encourages students to use AI for coding while also learning to explain their code and understand the underlying concepts. Closed-book exams and an oral exam assess students’ own understanding.
+
+Shiro implemented a custom AI bot on Ed Discussion to help answer students’ questions. The teaching team tested the bot on practice questions. While it was able to answer them successfully, Shiro pointed out that some answers were too long and used more notation than students would need for the exam. The course offers the Ed Discussion bot as a resource for students.
+
+# What we noticed
+
+Despite having access to the bot, students do not appear to be using it.
+
+I understand the hesitation—in fact, students’ choice not to use it makes a lot of sense to me. The course allows other AI tools, and students were encouraged to get a coding agent subscription at the beginning of the semester, so the Ed bot is competing with tools students already use.
+
+For me, the ease and familiarity of my own chatbot outweigh the reasons to try the class bot, especially when its benefits aren’t clear. When I attempted the first problem set, I chose the AI I was most familiar with. It’s hard for the Ed Discussion bot to compete with my existing routine. While I can’t speak for all students, this is my intuition about what some may be thinking.
+
+# What we would change
+
+If we continue offering the Ed Discussion bot, I think we need to show students when and why it would be useful, including what advantages it offers over their own AI tools. A short demonstration using an actual assignment question could give students a reason to try it.
+
+For future iterations of the course, I would also like to explore an AI documentation component for assignments. I think it feels inevitable that many students are using AI tools to assist with their work, if not completing the entire assignment. One way for the assignment to adapt to this is requiring a documentation component. The students could submit their chat session history. This would allow the teaching team to see which parts of the pset the students are consulting AI, and what questions students have and how they are prompting the AI. (Though, I can’t imagine the teaching team having enough time to go through it manually but using AI to summarize what happened in the chat session could streamline this). This way, AI is still allowed to be used, but rather than uploading the whole assignment for an AI to complete, the students have to break the assignment into parts and go through the effort of showing they are engaging with the AI to get their answer. A less demanding approach is to do a reflection at the end of the assignment, asking students to choose one exchange, include the relevant prompt and response, and explain what they used, changed, or rejected and how they checked the result.
